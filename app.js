@@ -1,7 +1,7 @@
 // Define the map options
 var mapOptions = {
     center: [-1.093159, 37.012468], // Set the initial center coordinates
-    zoom: 12 // Set the initial zoom level
+    zoom: 16 // Set the initial zoom level
   };
   
   // Create the map instance
