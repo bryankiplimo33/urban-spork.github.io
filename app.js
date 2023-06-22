@@ -13,5 +13,5 @@ var mapOptions = {
   }).addTo(map);
   // Create a marker with a custom popup
 var marker = L.marker([-1.093159, 37.012468]).addTo(map);
-marker.bindPopup("<b>Custom Popup Content</b><br>Horticulture").openPopup();
+marker.bindPopup("<b>Buildings</b><br>Horticulture").openPopup();
 
